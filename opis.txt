@@ -1,32 +1,34 @@
 4:"$Sreact.fragment"
-5:I[6216,["380","static/chunks/479ba886-6afe153bd47c61f5.js","839","static/chunks/839-28d1f814124bddaf.js","700","static/chunks/700-086958736dc153e9.js","177","static/chunks/app/layout-5d2e71d2a3a1724e.js"],"ThemeProvider"]
-6:I[9127,["380","static/chunks/479ba886-6afe153bd47c61f5.js","839","static/chunks/839-28d1f814124bddaf.js","700","static/chunks/700-086958736dc153e9.js","177","static/chunks/app/layout-5d2e71d2a3a1724e.js"],"default"]
+5:I[6216,["380","static/chunks/479ba886-6afe153bd47c61f5.js","700","static/chunks/700-ba117725ce69c22a.js","177","static/chunks/app/layout-b1e696578cc47013.js"],"ThemeProvider"]
+6:I[9127,["380","static/chunks/479ba886-6afe153bd47c61f5.js","700","static/chunks/700-ba117725ce69c22a.js","177","static/chunks/app/layout-b1e696578cc47013.js"],"default"]
 7:I[5244,[],""]
 8:I[3866,[],""]
-9:I[4839,["380","static/chunks/479ba886-6afe153bd47c61f5.js","839","static/chunks/839-28d1f814124bddaf.js","700","static/chunks/700-086958736dc153e9.js","177","static/chunks/app/layout-5d2e71d2a3a1724e.js"],""]
+9:I[4839,["380","static/chunks/479ba886-6afe153bd47c61f5.js","700","static/chunks/700-ba117725ce69c22a.js","177","static/chunks/app/layout-b1e696578cc47013.js"],""]
 c:I[6213,[],"OutletBoundary"]
 e:I[6213,[],"MetadataBoundary"]
 10:I[6213,[],"ViewportBoundary"]
 12:I[4835,[],""]
 1:HL["/zesp11_page/_next/static/media/4473ecc91f70f139-s.p.woff","font",{"crossOrigin":"","type":"font/woff"}]
 2:HL["/zesp11_page/_next/static/media/463dafcda517f24f-s.p.woff","font",{"crossOrigin":"","type":"font/woff"}]
-3:HL["/zesp11_page/_next/static/css/18ab1368e54e0857.css","style"]
-a:T518,M165.9 397.4c0 2-2.3 3.6-5.2 3.6-3.3.3-5.6-1.3-5.6-3.6 0-2 2.3-3.6 5.2-3.6 3-.3 5.6 1.3 5.6 3.6zm-31.1-4.5c-.7 2 1.3 4.3 4.3 4.9 2.6 1 5.6 0 6.2-2s-1.3-4.3-4.3-5.2c-2.6-.7-5.5.3-6.2 2.3zm44.2-1.7c-2.9.7-4.9 2.6-4.6 4.9.3 2 2.9 3.3 5.9 2.6 2.9-.7 4.9-2.6 4.6-4.6-.3-1.9-3-3.2-5.9-2.9zM244.8 8C106.1 8 0 113.3 0 252c0 110.9 69.8 205.8 169.5 239.2 12.8 2.3 17.3-5.6 17.3-12.1 0-6.2-.3-40.4-.3-61.4 0 0-70 15-84.7-29.8 0 0-11.4-29.1-27.8-36.6 0 0-22.9-15.7 1.6-15.4 0 0 24.9 2 38.6 25.8 21.9 38.6 58.6 27.5 72.9 20.9 2.3-16 8.8-27.1 16-33.7-55.9-6.2-112.3-14.3-112.3-110.5 0-27.5 7.6-41.3 23.6-58.9-2.6-6.5-11.1-33.3 2.6-67.9 20.9-6.5 69 27 69 27 20-5.6 41.5-8.5 62.8-8.5s42.8 2.9 62.8 8.5c0 0 48.1-33.6 69-27 13.7 34.7 5.2 61.4 2.6 67.9 16 17.7 25.8 31.5 25.8 58.9 0 96.5-58.9 104.2-114.8 110.5 9.2 7.9 17 22.9 17 46.4 0 33.7-.3 75.4-.3 83.6 0 6.5 4.6 14.4 17.3 12.1C428.2 457.8 496 362.9 496 252 496 113.3 383.5 8 244.8 8zM97.2 352.9c-1.3 1-1 3.3.7 5.2 1.6 1.6 3.9 2.3 5.2 1 1.3-1 1-3.3-.7-5.2-1.6-1.6-3.9-2.3-5.2-1zm-10.8-8.1c-.7 1.3.3 2.9 2.3 3.9 1.6 1 3.6.7 4.3-.7.7-1.3-.3-2.9-2.3-3.9-2-.6-3.6-.3-4.3.7zm32.4 35.6c-1.6 1.3-1 4.3 1.3 6.2 2.3 2.3 5.2 2.6 6.5 1 1.3-1.3.7-4.3-1.3-6.2-2.2-2.3-5.2-2.6-6.5-1zm-11.4-14.7c-1.6 1-1.6 3.6 0 5.9 1.6 2.3 4.3 3.3 5.6 2.3 1.6-1.3 1.6-3.9 0-6.2-1.4-2.3-4-3.3-5.6-2z0:{"P":null,"b":"w5XKveVatLqUghxPAUAgq","p":"/zesp11_page","c":["","opis"],"i":false,"f":[[["",{"children":["opis",{"children":["__PAGE__",{}]}]},"$undefined","$undefined",true],["",["$","$4","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/zesp11_page/_next/static/css/18ab1368e54e0857.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"pl","children":["$","body",null,{"className":"__variable_200e82 __variable_9cd73c antialiased grid grid-rows-[auto_1fr_auto] h-screen","children":["$","$L5",null,{"attribute":"class","defaultTheme":"system","children":[["$","div",null,{"className":"h-10 z-10","children":["$","$L6",null,{}]}],["$","main",null,{"className":"container mx-auto p-4 sm:mt-10","children":["$","$L7",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L8",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[]}]}],["$","footer",null,{"className":"bg-background text-center py-2 shadow-lg border-t","children":["$","div",null,{"className":"container w-3/4 mx-auto px-4 lg:px-8","children":["$","div",null,{"className":"flex flex-col md:flex-row justify-between items-center gap-4 p-4","children":[["$","$L9",null,{"href":"/opis","className":"hover:text-gray-800 transition-colors dark:hover:text-gray-400 text-sm font-medium","children":"Opis Projektu"}],["$","a",null,{"href":"https://github.com","target":"_blank","rel":"noopener noreferrer","children":["$","svg",null,{"stroke":"currentColor","fill":"currentColor","strokeWidth":"0","viewBox":"0 0 496 512","className":"hover:text-gray-800 transition-colors dark:hover:text-gray-400","children":["$undefined",[["$","path","0",{"d":"$a","children":[]}]]],"style":{"color":"$undefined"},"height":24,"width":24,"xmlns":"http://www.w3.org/2000/svg"}]}],["$","div",null,{"className":"text-xs","children":["$","p",null,{"children":"© 2024 All rights reserved."}]}]]}]}]}]]}]}]}]]}],{"children":["opis",["$","$4","c",{"children":[null,["$","$L7",null,{"parallelRouterKey":"children","segmentPath":["children","opis","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L8",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]]}],{"children":["__PAGE__",["$","$4","c",{"children":["$Lb",null,["$","$Lc",null,{"children":"$Ld"}]]}],{},null]},null]},null],["$","$4","h",{"children":[null,["$","$4","yGH1y5IHuU306k2jpe5Tg",{"children":[["$","$Le",null,{"children":"$Lf"}],["$","$L10",null,{"children":"$L11"}],["$","meta",null,{"name":"next-size-adjust"}]]}]]}]]],"m":"$undefined","G":["$12","$undefined"],"s":false,"S":true}
-13:Tbe6,<h1>Opis Projektu</h1>
+3:HL["/zesp11_page/_next/static/css/da5767d8d0170dcb.css","style"]
+a:T518,M165.9 397.4c0 2-2.3 3.6-5.2 3.6-3.3.3-5.6-1.3-5.6-3.6 0-2 2.3-3.6 5.2-3.6 3-.3 5.6 1.3 5.6 3.6zm-31.1-4.5c-.7 2 1.3 4.3 4.3 4.9 2.6 1 5.6 0 6.2-2s-1.3-4.3-4.3-5.2c-2.6-.7-5.5.3-6.2 2.3zm44.2-1.7c-2.9.7-4.9 2.6-4.6 4.9.3 2 2.9 3.3 5.9 2.6 2.9-.7 4.9-2.6 4.6-4.6-.3-1.9-3-3.2-5.9-2.9zM244.8 8C106.1 8 0 113.3 0 252c0 110.9 69.8 205.8 169.5 239.2 12.8 2.3 17.3-5.6 17.3-12.1 0-6.2-.3-40.4-.3-61.4 0 0-70 15-84.7-29.8 0 0-11.4-29.1-27.8-36.6 0 0-22.9-15.7 1.6-15.4 0 0 24.9 2 38.6 25.8 21.9 38.6 58.6 27.5 72.9 20.9 2.3-16 8.8-27.1 16-33.7-55.9-6.2-112.3-14.3-112.3-110.5 0-27.5 7.6-41.3 23.6-58.9-2.6-6.5-11.1-33.3 2.6-67.9 20.9-6.5 69 27 69 27 20-5.6 41.5-8.5 62.8-8.5s42.8 2.9 62.8 8.5c0 0 48.1-33.6 69-27 13.7 34.7 5.2 61.4 2.6 67.9 16 17.7 25.8 31.5 25.8 58.9 0 96.5-58.9 104.2-114.8 110.5 9.2 7.9 17 22.9 17 46.4 0 33.7-.3 75.4-.3 83.6 0 6.5 4.6 14.4 17.3 12.1C428.2 457.8 496 362.9 496 252 496 113.3 383.5 8 244.8 8zM97.2 352.9c-1.3 1-1 3.3.7 5.2 1.6 1.6 3.9 2.3 5.2 1 1.3-1 1-3.3-.7-5.2-1.6-1.6-3.9-2.3-5.2-1zm-10.8-8.1c-.7 1.3.3 2.9 2.3 3.9 1.6 1 3.6.7 4.3-.7.7-1.3-.3-2.9-2.3-3.9-2-.6-3.6-.3-4.3.7zm32.4 35.6c-1.6 1.3-1 4.3 1.3 6.2 2.3 2.3 5.2 2.6 6.5 1 1.3-1.3.7-4.3-1.3-6.2-2.2-2.3-5.2-2.6-6.5-1zm-11.4-14.7c-1.6 1-1.6 3.6 0 5.9 1.6 2.3 4.3 3.3 5.6 2.3 1.6-1.3 1.6-3.9 0-6.2-1.4-2.3-4-3.3-5.6-2z0:{"P":null,"b":"FOKtQC7IITnsXWqYjnxWg","p":"/zesp11_page","c":["","opis"],"i":false,"f":[[["",{"children":["(nonMainPage)",{"children":["opis",{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$4","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/zesp11_page/_next/static/css/da5767d8d0170dcb.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"pl","children":["$","body",null,{"className":"__variable_200e82 __variable_9cd73c antialiased grid grid-rows-[auto_1fr_auto] h-screen","children":["$","$L5",null,{"attribute":"class","defaultTheme":"dark","children":[["$","div",null,{"className":"h-10 z-50","children":["$","$L6",null,{}]}],["$","$L7",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L8",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[]}],["$","footer",null,{"className":"z-10 bg-background text-center py-2 shadow-lg border-t","children":["$","div",null,{"className":"container w-3/4 mx-auto px-4 lg:px-8","children":["$","div",null,{"className":"flex flex-col md:flex-row justify-between items-center gap-4 p-4","children":[["$","div",null,{"className":"flex gap-4 items-center","children":[["$","$L9",null,{"href":"/opis","className":"hover:text-gray-800 transition-colors dark:hover:text-gray-400 text-sm font-medium","children":"Opis Projektu"}],["$","a",null,{"href":"https://github.com/Serp-ent/zesp11","target":"_blank","rel":"noopener noreferrer","children":["$","svg",null,{"stroke":"currentColor","fill":"currentColor","strokeWidth":"0","viewBox":"0 0 496 512","className":"hover:text-gray-800 transition-colors dark:hover:text-gray-400","children":["$undefined",[["$","path","0",{"d":"$a","children":[]}]]],"style":{"color":"$undefined"},"height":24,"width":24,"xmlns":"http://www.w3.org/2000/svg"}]}]]}],["$","div",null,{"className":"text-xs","children":["$","p",null,{"children":"© 2024 All rights reserved."}]}]]}]}]}]]}]}]}]]}],{"children":["(nonMainPage)",["$","$4","c",{"children":[null,["$","main",null,{"className":"container mx-auto p-4 sm:mt-10","children":["$","$L7",null,{"parallelRouterKey":"children","segmentPath":["children","(nonMainPage)","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L8",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":"$0:f:0:1:1:props:children:1:props:children:props:children:props:children:1:props:notFound:1:props:style","children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":"$0:f:0:1:1:props:children:1:props:children:props:children:props:children:1:props:notFound:1:props:children:props:children:1:props:style","children":"404"}],["$","div",null,{"style":"$0:f:0:1:1:props:children:1:props:children:props:children:props:children:1:props:notFound:1:props:children:props:children:2:props:style","children":["$","h2",null,{"style":"$0:f:0:1:1:props:children:1:props:children:props:children:props:children:1:props:notFound:1:props:children:props:children:2:props:children:props:style","children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[]}]}]]}],{"children":["opis",["$","$4","c",{"children":[null,["$","$L7",null,{"parallelRouterKey":"children","segmentPath":["children","(nonMainPage)","children","opis","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L8",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]]}],{"children":["__PAGE__",["$","$4","c",{"children":["$Lb",null,["$","$Lc",null,{"children":"$Ld"}]]}],{},null]},null]},null]},null],["$","$4","h",{"children":[null,["$","$4","inaZPiQwRVToH-T1U6h2y",{"children":[["$","$Le",null,{"children":"$Lf"}],["$","$L10",null,{"children":"$L11"}],["$","meta",null,{"name":"next-size-adjust"}]]}]]}]]],"m":"$undefined","G":["$12","$undefined"],"s":false,"S":true}
+13:T14c0,<h1>Opis Projektu</h1>
 <h2>Wstęp</h2>
-<p>Projekt "Platforma Mobilna i Webowa" ma na celu stworzenie aplikacji wieloplatformowej, która umożliwi użytkownikom dostęp do kluczowych funkcjonalności zarówno na urządzeniach mobilnych, jak i na komputerach stacjonarnych. Projekt opiera się na wykorzystaniu najnowszych technologii, takich jak <strong>Flutter</strong> do aplikacji mobilnej, <strong>Java (Spring Boot)</strong> jako backend oraz <strong>React z Next.js</strong> do tworzenia strony internetowej.</p>
+<p>Projekt <strong>GoBook</strong> ma na celu stworzenie aplikacji wieloplatformowej, która umożliwi użytkownikom tworzenie, zarządzanie i odczytywanie interaktywnych książek przygodowych (gamebook). Aplikacja będzie dostępna na urządzeniach mobilnych oraz w wersji webowej. Projekt opiera się na wykorzystaniu nowoczesnych technologii, takich jak <strong>React</strong> do tworzenia aplikacji webowej, <strong>Next.js</strong> do strony opisującej projekt, <strong>Spring Boot</strong> jako backend oraz <strong>Flutter</strong> do aplikacji mobilnej.</p>
+<p>Projekt skupia się na bliskiej współpracy między członkami zespołu, którzy pracują nad różnymi komponentami systemu, zapewniając spójną integrację wszystkich technologii oraz ich funkcjonalności.</p>
 <h2>Cel</h2>
-<p>Głównym celem projektu jest stworzenie skalowalnej, responsywnej i intuicyjnej aplikacji, która spełni potrzeby użytkowników i dostarczy im pozytywnych doświadczeń.</p>
+<p>Głównym celem projektu <strong>GoBook</strong> jest stworzenie skalowalnej, responsywnej i intuicyjnej aplikacji, która umożliwi użytkownikom tworzenie interaktywnych książek przygodowych, które będą mogły być czytane zarówno w aplikacji mobilnej, jak i na stronie internetowej. Zespół dąży do zapewnienia doskonałej integracji między aplikacją mobilną, stroną internetową oraz backendem.</p>
 <hr>
 <h2>Architektura</h2>
-<p>Projekt wykorzystuje podejście <strong>full-stack</strong> i podzielony jest na trzy główne komponenty:</p>
+<p>Projekt wykorzystuje podejście <strong>full-stack</strong> i jest podzielony na trzy główne komponenty:</p>
 <h3>1. Aplikacja Mobilna</h3>
 <ul>
 <li><strong>Technologia</strong>: Flutter</li>
 <li><strong>Główne funkcje</strong>:
 <ul>
 <li>Rejestracja i logowanie użytkowników</li>
-<li>Przeglądanie i zarządzanie danymi w czasie rzeczywistym</li>
+<li>Tworzenie i edytowanie książek przygodowych</li>
+<li>Odczytywanie i zarządzanie interaktywnymi książkami</li>
 <li>Obsługa trybu offline i synchronizacja danych</li>
 </ul>
 </li>
@@ -36,9 +38,10 @@ a:T518,M165.9 397.4c0 2-2.3 3.6-5.2 3.6-3.3.3-5.6-1.3-5.6-3.6 0-2 2.3-3.6 5.2-3.
 <li><strong>Technologia</strong>: Java + Spring Boot</li>
 <li><strong>Funkcje backendu</strong>:
 <ul>
-<li>Obsługa API REST</li>
-<li>Bezpieczne uwierzytelnianie (JWT)</li>
+<li>Obsługa API REST do zarządzania danymi książek przygodowych</li>
+<li>Bezpieczne uwierzytelnianie użytkowników (JWT)</li>
 <li>Obsługa bazy danych relacyjnych (PostgreSQL)</li>
+<li>Synchronizacja danych między aplikacjami mobilnymi i webowymi</li>
 </ul>
 </li>
 </ul>
@@ -47,7 +50,7 @@ a:T518,M165.9 397.4c0 2-2.3 3.6-5.2 3.6-3.3.3-5.6-1.3-5.6-3.6 0-2 2.3-3.6 5.2-3.
 <li><strong>Technologia</strong>: React z Next.js</li>
 <li><strong>Główne funkcje</strong>:
 <ul>
-<li>Responsywny interfejs użytkownika</li>
+<li>Responsywny interfejs użytkownika opisujący projekt i funkcjonalności</li>
 <li>Interakcja z API backendu</li>
 <li>Wsparcie dla lokalizacji i trybu ciemnego</li>
 </ul>
@@ -62,9 +65,10 @@ a:T518,M165.9 397.4c0 2-2.3 3.6-5.2 3.6-3.3.3-5.6-1.3-5.6-3.6 0-2 2.3-3.6 5.2-3.
 <li>Za pomocą e-maila lub mediów społecznościowych</li>
 </ul>
 </li>
-<li><strong>Zarządzanie danymi</strong>:
+<li><strong>Tworzenie i zarządzanie książkami przygodowymi</strong>:
 <ul>
-<li>Przeglądanie, dodawanie, edytowanie i usuwanie danych</li>
+<li>Tworzenie, edytowanie, dodawanie treści i wybory w książkach przygodowych</li>
+<li>Przeglądanie książek i historii użytkowników</li>
 </ul>
 </li>
 <li><strong>Powiadomienia push</strong>:
@@ -74,31 +78,65 @@ a:T518,M165.9 397.4c0 2-2.3 3.6-5.2 3.6-3.3.3-5.6-1.3-5.6-3.6 0-2 2.3-3.6 5.2-3.
 </li>
 <li><strong>Obsługa wielu języków</strong>:
 <ul>
-<li>Funkcjonalność lokalizacji (i18n)</li>
+<li>Funkcjonalność lokalizacji (i18n) dla aplikacji webowej i mobilnej</li>
 </ul>
 </li>
 </ul>
 <hr>
 <h2>Zespół</h2>
+<p>Projekt realizuje zespół składający się z osób, które ściśle współpracują, aby zapewnić spójną integrację między komponentami aplikacji. Każdy członek zespołu odpowiada za różne obszary technologiczne i funkcjonalne projektu.</p>
+<h3>Członkowie zespołu:</h3>
+<ol>
+<li><strong>Agnieszka Uznańska</strong> - LinkedIn: <a href="https://linkedin.com/in/agnieszkauznanska">agnieszkauznanska</a>
 <ul>
-<li><strong>Frontend</strong>: Anna Nowak (React, Flutter)</li>
-<li><strong>Backend</strong>: Piotr Kowalski (Java + Spring Boot)</li>
-<li><strong>UX/UI</strong>: Marta Zielińska</li>
-<li><strong>Testerzy</strong>: Jan Wiśniewski, Aleksandra Kwiatkowska</li>
+<li><strong>Rola</strong>: Team Leader</li>
+</ul>
+</li>
+<li><strong>Franciszek Szary</strong> - GitHub: <a href="https://github.com/FranciszekSzary1">FranciszekSzary1</a>
+<ul>
+<li><strong>Rola</strong>: Backend (Spring)</li>
+</ul>
+</li>
+<li><strong>Cezary Arszyński</strong> - GitHub: <a href="https://github.com/Delfin22">Delfin22</a>
+<ul>
+<li><strong>Rola</strong>: Fullstack (Spring, React)</li>
+</ul>
+</li>
+<li><strong>Igor Jeziorski</strong> - GitHub: <a href="https://github.com/IgoRix08">IgoRix08</a>
+<ul>
+<li><strong>Rola</strong>: Frontend (React)</li>
+</ul>
+</li>
+<li><strong>Kamil Konarzewski</strong> - GitHub: <a href="https://github.com/K4-mil">K4-mil</a>
+<ul>
+<li><strong>Rola</strong>: Backend (Spring, PostgreSql)</li>
+</ul>
+</li>
+<li><strong>Paweł Charysz</strong> - GitHub: <a href="https://github.com/Erdahil">Erdahil</a>
+<ul>
+<li><strong>Rola</strong>: Aplikacja mobilna (Flutter)</li>
+</ul>
+</li>
+<li><strong>Kacper Urbański</strong> - GitHub: <a href="https://github.com/Serp-ent">Serp-ent</a>
+<ul>
+<li><strong>Rola</strong>: Aplikacja mobilna (Flutter)</li>
+</ul>
+</li>
+</ol>
+<h3>Opiekun zespołu:</h3>
+<ul>
+<li><strong>Agnieszka Uznańska</strong> pełni rolę liderki zespołu, koordynując działania między członkami zespołu oraz dbając o integrację poszczególnych komponentów projektu.</li>
 </ul>
 <hr>
 <h2>Technologie</h2>
 <p>Projekt wykorzystuje najnowsze narzędzia i technologie:</p>
 <ul>
-<li><strong>Frontend</strong>: React, Next.js, Tailwind CSS, Flutter</li>
+<li><strong>Frontend</strong>: React, Next.js, Tailwind CSS</li>
 <li><strong>Backend</strong>: Spring Boot, PostgreSQL, JWT</li>
-<li><strong>DevOps</strong>: Docker, CI/CD (GitHub Actions)</li>
+<li><strong>Aplikacja Mobilna</strong>: Flutter</li>
 <li><strong>Testy</strong>: Jest, Supertest, Postman</li>
 </ul>
-<hr>
-<h2>Harmonogram</h2>
-<p>Pełny harmonogram projektu znajduje się w pliku <code>harmonogram.md</code>.</p>
-b:["$","div",null,{"className":"flex justify-center ","children":["$","article",null,{"className":"prose prose-sm sm:prose-base dark:prose-invert lg:max-w-2xl","dangerouslySetInnerHTML":{"__html":"$13"}}]}]
+b:["$","div",null,{"className":"flex justify-center my-4","children":["$","article",null,{"className":"prose prose-sm sm:prose-base dark:prose-invert lg:max-w-2xl","dangerouslySetInnerHTML":{"__html":"$13"}}]}]
 11:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
 f:[["$","meta","0",{"charSet":"utf-8"}],["$","title","1",{"children":"Zespol XI"}],["$","meta","2",{"name":"description","content":"Strona dla programowania zespolowego 2024/25"}],["$","link","3",{"rel":"icon","href":"/zesp11_page/favicon.ico","type":"image/x-icon","sizes":"16x16"}]]
 d:null
